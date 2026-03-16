@@ -63,4 +63,4 @@ Variables and data types
 
 Loops (for loop)
 
-Basic algorithm implementation
+Basic algorithm implementation.
