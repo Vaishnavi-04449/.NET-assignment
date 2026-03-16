@@ -75,4 +75,4 @@ The program initializes the first two numbers of the Fibonacci series:
 
 A loop is used to calculate the next numbers.
 
-Each number is printed to the console.
+Each number is printed to the console
